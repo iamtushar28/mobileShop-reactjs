@@ -16,7 +16,7 @@ A fully responsive mobile shop website designed with a user-friendly interface a
 
 - **HTML5**: For structuring the content on the web pages.
 - **CSS3 & Tailwind CSS**: For styling the website and ensuring it is responsive across all devices.
-- **JavaScript & ReactJS**: For adding interactivity and managing the state of the application.
+- **JavaScript & React.JS**: For adding interactivity and managing the state of the application.
 
 ## ⚠️ **Note**
 
