@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radio{
+    accent-color: black;
+    height: 18px;
+    width: 18px;   
+}
+
+::selection{
+    color: #f9cb14;
+}
