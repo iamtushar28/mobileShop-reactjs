@@ -5,7 +5,7 @@ A fully responsive mobile shop website designed with a user-friendly interface a
 ## 📋 **Features**
 
 - **Home Page**: Displays featured products, promotions, and latest arrivals.
-- **Product Detail Page**: Detailed information about each product, including images, descriptions, specifications, and customer reviews.
+- **Product Detail Page**: Detailed information about each product, including images, descriptions, specifications.
 - **Product Catalog**: A comprehensive list of products with filtering and search functionality to help users find exactly what they need.
 - **Wishlist**: Allows users to save their favorite products for future reference.
 - **Shopping Cart**: Users can add products to their cart and manage quantities.
